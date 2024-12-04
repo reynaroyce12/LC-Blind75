@@ -1,4 +1,4 @@
-# LeetCode Blind 75 Solutions
+# LeetCode Blind 75 Solutions (Work In Progress)
 
 Welcome to my repository of solutions for the **LeetCode Blind 75**, a curated list of 75 high-quality coding problems frequently asked in technical interviews.
 
