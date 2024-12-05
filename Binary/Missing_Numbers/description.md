@@ -16,6 +16,8 @@ Using this approach, we first initialise a set from the given array and then we 
 1. If the missing number is 0: If the array starts from 1 and the missing number is 0, it will be correctly identified because we are iterating from 0.  
 2. If the missing number is n: Since we iterate up to len(nums), the missing number could be n. If we dont iterate till n, we could overlook this edge case.    
 
+Here a set is used for traversing instead of the array itself beaucse, when the `in` operator is used in the array, python performs a linear search to check if the element exists in teh array or not. But a set in python is implemented as a Hashtable. So when we use the `in` operator to see if an element exists or not it takes only constant time
+
 *Time Complexity:* O(n)  
 *Space Complexity:* O(n)
 
