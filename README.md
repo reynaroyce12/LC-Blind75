@@ -17,7 +17,7 @@ The **Blind 75** is a collection of coding problems across various categories de
 ### Arrays
 
 1. [Two Sum](#link-to-solution)  
-2. [Best Time to Buy and Sell Stock](https://github.com/reynaroyce12/LC-Blind/blob/main/buyAndSellStocks.py)  
+2. [Best Time to Buy and Sell Stock](https://github.com/reynaroyce12/LC-Blind/tree/main/Arrays/Best_Time_to_Buy_and_Sell_Stock)  
 3. [Contains Duplicate](#link-to-solution)  
 4. [Product of Array Except Self](#link-to-solution)  
 5. [Maximum Subarray](#link-to-solution)  
@@ -26,6 +26,15 @@ The **Blind 75** is a collection of coding problems across various categories de
 8. [3Sum](#link-to-solution)  
 9. [Container With Most Water](#link-to-solution)  
 10. [Valid Sudoku](#link-to-solution)  
+
+
+### Binary
+
+1. [Missing Numbers](https://github.com/reynaroyce12/LC-Blind/tree/main/Binary/Missing_Numbers)
+
+### Strings
+
+1. [Valid Paranthesis](https://github.com/reynaroyce12/LC-Blind/tree/main/Strings/Valid%20Paranthesis)
 
 
 ## Contributions
