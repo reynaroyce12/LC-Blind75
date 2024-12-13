@@ -12,7 +12,7 @@ Return true if there is a cycle in the linked list. Otherwise, return false.
 
 
 **Example Input/Output:**  
-![My Image](../../xAssets/linkedListCycleDemo.png)
+![My Image](../../xAssets/linkedListCycleDemo.png)  
 **Input:** `head = [3, 2, 0, -4]` with a cycle at position 1  
 **Output:** `true`  
 **Explanation:** The linked list has a cycle, as the last node points back to the second node.  

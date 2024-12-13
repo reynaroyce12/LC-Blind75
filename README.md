@@ -20,7 +20,7 @@ The **Blind 75** is a collection of coding problems across various categories de
 2. [Best Time to Buy and Sell Stock](https://github.com/reynaroyce12/LC-Blind/tree/main/Arrays/Best_Time_to_Buy_and_Sell_Stock)  
 3. [Contains Duplicate](https://github.com/reynaroyce12/LC-Blind/tree/main/Arrays/Contains_Duplicate)  
 4. [Product of Array Except Self](#link-to-solution)  
-5. [Maximum Subarray](#link-to-solution)  
+5. [Maximum Subarray](https://github.com/reynaroyce12/LC-Blind/tree/main/Arrays/Maximum_Subarray)  
 6. [Find Minimum in Rotated Sorted Array](#link-to-solution)  
 7. [Search in Rotated Sorted Array](#link-to-solution)  
 8. [3Sum](#link-to-solution)  
@@ -36,6 +36,11 @@ The **Blind 75** is a collection of coding problems across various categories de
 
 1. [Valid Paranthesis](https://github.com/reynaroyce12/LC-Blind/tree/main/Strings/Valid%20Paranthesis)
 2. [Longest Substring Without Repeating Characters](https://github.com/reynaroyce12/LC-Blind75/tree/main/Strings/Longest_Substrings_Without_Repeating_Charaters) 
+
+### Linked Lists
+ 
+1. [Linked List Cycle](https://github.com/reynaroyce12/LC-Blind75/tree/main/Linked_Lists/Linked_List_Cycle)  
+
 
 
 ## Contributions
