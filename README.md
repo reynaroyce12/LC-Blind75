@@ -40,6 +40,7 @@ The **Blind 75** is a collection of coding problems across various categories de
 ### Linked Lists
  
 1. [Linked List Cycle](https://github.com/reynaroyce12/LC-Blind75/tree/main/Linked_Lists/Linked_List_Cycle)  
+2. [Merge Two Sorted Lists](https://github.com/reynaroyce12/LC-Blind75/tree/main/Linked_Lists/Merge_Two_Sorted_Lists)  
 
 
 
@@ -76,8 +77,6 @@ This repository is primarily for personal learning and growth, but suggestions f
 ### Linked Lists
 
 1. [Reverse Linked List](#link-to-solution)  
-2. [Merge Two Sorted Lists](#link-to-solution)  
-3. [Linked List Cycle](#link-to-solution)  
 4. [Palindrome Linked List](#link-to-solution)  
 
 ### Backtracking
