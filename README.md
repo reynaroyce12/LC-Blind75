@@ -36,6 +36,7 @@ The **Blind 75** is a collection of coding problems across various categories de
 
 1. [Valid Paranthesis](https://github.com/reynaroyce12/LC-Blind/tree/main/Strings/Valid%20Paranthesis)
 2. [Longest Substring Without Repeating Characters](https://github.com/reynaroyce12/LC-Blind75/tree/main/Strings/Longest_Substrings_Without_Repeating_Charaters) 
+3. [Valid Palindrome](https://github.com/reynaroyce12/LC-Blind75/tree/main/Strings/Valid_Palindrome)
 
 ### Linked Lists
  
