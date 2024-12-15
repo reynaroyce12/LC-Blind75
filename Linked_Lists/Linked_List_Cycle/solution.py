@@ -4,6 +4,7 @@ class ListNode(object):
         self.next = next
 
 
+# Approach 1. Using set 
 class Solution_1(object):
     def hasCycle(self, head):
 
@@ -19,6 +20,7 @@ class Solution_1(object):
         return False
 
 
+# Approach 2. Using slow & Fast pointer (Floyd's Cycle Detection Algorithm)
 class Solution_2(object):
     def hasCycle(self, head):
 
