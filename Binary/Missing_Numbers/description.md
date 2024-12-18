@@ -2,7 +2,9 @@
 
 Problem Description: Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array
 
-Difficulty: `Easy`
+**Difficulty:** `Easy`
+Category: `Mathematical Approach`, `Set-Based`
+
 
 **Example Input/Output:**  
 **Input:** [3, 0, 1]  
@@ -21,10 +23,11 @@ Here a set is used for traversing instead of the array itself beaucse, when the 
 *Time Complexity:* O(n)  
 *Space Complexity:* O(n)
 
-## Solution 1. Using Expected vs Actual Sum 
+## Solution 1. Using Expected vs Actual Sum  (Optimal Solution)
 
-`Optimal Solution`  
 In this technique, we use the mathematical formula to find the sum of n natural number which is n * (n+1) / 2. This will be the expected sum. We then subtract the actual sum of the elements in the array using the built-in function `sum` from the expected sum. The difference will be the missing number in the array
+
+This is the optimal solution in terms of space complexity.
 
 *Time Complexity:* O(n) because the sum function needs to iterate through all n elements of the array.  
 *Space Complexity:* O(1)

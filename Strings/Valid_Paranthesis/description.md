@@ -8,6 +8,7 @@ An input string is valid if:
 3. Every close bracket has a corresponding open bracket of the same type.
 
 **Difficulty:** `Easy`
+**Category:** `Stack`
 
 **Example Input/Output:**  
 **Input:** "()[]{}"  

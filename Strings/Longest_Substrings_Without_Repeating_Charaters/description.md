@@ -29,3 +29,6 @@ This approach uses the sliding window technique to find the length of the longes
     - Repeat this process until the end of the string.
 
 4. The final value of max_length represents the length of the longest substring without repeating characters.
+
+Time Complexity: O(n): Each character is added to and removed from the set at most once
+Space Complexity: O(min(n, m)): The set stores up to `m` unique characters or n if all characters in the string are unique.

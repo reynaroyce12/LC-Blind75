@@ -47,5 +47,5 @@ In this approach we make use of two pointers, one which starts from the beginnin
 3. If the loop completes without finding mismatched characters, return True.
 
 *Time Complexity:* O(n) Because we traverse the string once   
-*Space Complexity:* O(n) Becuase there are no additional data structures involved and we only use a fixed amount of extra space for the pointers.
+*Space Complexity:* O(1) Becuase there are no additional data structures involved and we only use a fixed amount of extra space for the pointers.
 
