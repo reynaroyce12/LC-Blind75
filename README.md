@@ -22,7 +22,7 @@ The **Blind 75** is a collection of coding problems across various categories de
 4. [Product of Array Except Self](#link-to-solution)  
 5. [Maximum Subarray](https://github.com/reynaroyce12/LC-Blind/tree/main/Arrays/Maximum_Subarray)  
 6. [Maximum Product Subarray](https://github.com/reynaroyce12/LC-Blind75/tree/main/Arrays/Maximum_Product_SubArray)
-7. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+7. [Find Minimum in Rotated Sorted Array](https://github.com/reynaroyce12/LC-Blind75/tree/main/Arrays/Find_Minimum_In_Rotated_Sorted_Array)
 
 
 ### Binary
