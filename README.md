@@ -21,11 +21,7 @@ The **Blind 75** is a collection of coding problems across various categories de
 3. [Contains Duplicate](https://github.com/reynaroyce12/LC-Blind/tree/main/Arrays/Contains_Duplicate)  
 4. [Product of Array Except Self](#link-to-solution)  
 5. [Maximum Subarray](https://github.com/reynaroyce12/LC-Blind/tree/main/Arrays/Maximum_Subarray)  
-6. [Find Minimum in Rotated Sorted Array](#link-to-solution)  
-7. [Search in Rotated Sorted Array](#link-to-solution)  
-8. [3Sum](#link-to-solution)  
-9. [Container With Most Water](#link-to-solution)  
-10. [Valid Sudoku](#link-to-solution)  
+6. [Maximum Product Subarray](https://github.com/reynaroyce12/LC-Blind75/tree/main/Arrays/Maximum_Product_SubArray)
 
 
 ### Binary
