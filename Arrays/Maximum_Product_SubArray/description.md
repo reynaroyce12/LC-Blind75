@@ -4,7 +4,7 @@
 Given an integer array `nums`, find the contiguous subarray (containing at least one number) which has the largest product and return that product.
 
 **Difficulty:** `Medium`  
-**Category:** `Array-based, Dynamic Programming`
+**Category:** `Array`, `Dynamic Programming`
 
 **Example Input/Output:**  
 **Input:** [2, 3, -2, 4]  
@@ -12,9 +12,10 @@ Given an integer array `nums`, find the contiguous subarray (containing at least
 **Explanation:**  
 The subarray [2, 3] has the largest product 6.
 
----
 
-## Solution. Dynamic Programming Approach
+
+
+## Solution. Using Programming Approach
 
 This method maintains two variables, `current_max` and `current_min`, to track the maximum and minimum products of the subarray at each position in the array. This is necessary because negative numbers can turn the minimum product into the maximum when multiplied.  
 
