@@ -16,7 +16,7 @@ The **Blind 75** is a collection of coding problems across various categories de
 
 ### Arrays
 
-1. [Two Sum](#link-to-solution)  
+1. [Two Sum](https://github.com/reynaroyce12/LC-Blind/tree/main/Arrays/Two_Sum)  
 2. [Best Time to Buy and Sell Stock](https://github.com/reynaroyce12/LC-Blind/tree/main/Arrays/Best_Time_to_Buy_and_Sell_Stock)  
 3. [Contains Duplicate](https://github.com/reynaroyce12/LC-Blind/tree/main/Arrays/Contains_Duplicate)  
 4. [Product of Array Except Self](#link-to-solution)  
