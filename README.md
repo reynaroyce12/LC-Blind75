@@ -25,6 +25,7 @@ The **Blind 75** is a collection of coding problems across various categories de
 7. [Find Minimum in Rotated Sorted Array](https://github.com/reynaroyce12/LC-Blind75/tree/main/Arrays/Find_Minimum_In_Rotated_Sorted_Array)
 8. [Search in Rotated Sorted Array](https://github.com/reynaroyce12/LC-Blind75/tree/main/Arrays/Search_in_Rotated_Sorted_Array)
 9. [Three Sum](https://leetcode.com/problems/3sum/)
+10. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 
 ### Binary
