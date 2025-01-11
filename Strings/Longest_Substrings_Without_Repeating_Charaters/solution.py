@@ -17,8 +17,3 @@ class Solution(object):
 
         return max_length
 
-
-solution = Solution()
-s = "pwwkew"
-result = solution.lengthOfLongestSubstring(s)
-print(result)
