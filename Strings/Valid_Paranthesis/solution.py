@@ -29,8 +29,3 @@ class Solution(object):
 
         return len(character_stack) == 0
 
-solution = Solution()
-s = "([)"
-
-result = solution.isValid(s)
-print(result)

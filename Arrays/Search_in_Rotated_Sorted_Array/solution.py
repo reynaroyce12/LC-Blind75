@@ -22,11 +22,7 @@ class Solution(object):
 
         return -1
 
-solution = Solution()
-nums = [4,5,6,7,0,1,2]
-target = 3
-result = solution.search(nums, target)
-print(result)
+
 
 
 

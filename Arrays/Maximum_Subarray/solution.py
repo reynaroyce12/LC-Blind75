@@ -11,7 +11,3 @@ class Solution(object):
 
         return max_sum
 
-solution = Solution()
-nums = [-9, 2, 1, 4, 5]
-result = solution.maxSubArray(nums)
-print(result)
