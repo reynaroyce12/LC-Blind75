@@ -15,6 +15,7 @@ class Solution_1(object):
 
         return list(anagrams_dict.values())
 
+
 # Approach 2. Using fixed size Arrays as Keys
 class Solution_2(object):
     def groupAnagrams(self, strs):
@@ -31,9 +32,3 @@ class Solution_2(object):
 
         return list(anagrams_dict.values())
             
-
-
-solution = Solution()
-strs =["eat","tea","tan","ate","nat","bat"]
-result = solution.groupAnagrams(strs)
-print(result)
