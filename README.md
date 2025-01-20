@@ -41,6 +41,7 @@ The **Blind 75** is a collection of coding problems across various categories de
 5. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
 6. [Group Anagram](https://leetcode.com/problems/group-anagrams/description/)
 7. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
+9. [Palindromic Substring](https://leetcode.com/problems/palindromic-substrings/description/)
 
 
 ### Linked Lists
