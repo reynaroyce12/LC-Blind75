@@ -19,7 +19,3 @@ class Solution(object):
         return valid_palindromes
 
 
-solution = Solution()
-s = "abc"
-result = solution.countSubstrings(s)
-print(result)
