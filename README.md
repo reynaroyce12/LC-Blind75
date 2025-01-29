@@ -48,6 +48,7 @@ The **Blind 75** is a collection of coding problems across various categories de
  
 1. [Linked List Cycle](https://github.com/reynaroyce12/LC-Blind75/tree/main/Linked_Lists/Linked_List_Cycle)  
 2. [Merge Two Sorted Lists](https://github.com/reynaroyce12/LC-Blind75/tree/main/Linked_Lists/Merge_Two_Sorted_Lists)  
+3. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)  
 
 
 
